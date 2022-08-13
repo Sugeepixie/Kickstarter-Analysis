@@ -35,7 +35,7 @@ When creating line chart for Outcomes based on Goals, I first created a pivot ta
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 * The highest amount of successful Theater campaigns were launched in May and second highest in June.
 * Month of October did not have any cancellations.
@@ -43,7 +43,7 @@ When creating line chart for Outcomes based on Goals, I first created a pivot ta
    My recommendation would be to start Louise's campaign in May.
 
 
-- What can you conclude about the Outcomes based on Goals?
+### What can you conclude about the Outcomes based on Goals?
 
 
 * Higher the goal range, lower the number of campaigns with in that range and vice versa 
@@ -51,11 +51,11 @@ When creating line chart for Outcomes based on Goals, I first created a pivot ta
 
    My recommendation would be to set lower goal range (realistic goal) to achieve success. 
 
-- What are some limitations of this dataset?
+### What are some limitations of this dataset?
 
 * Factors like Backers count, countires, and pledged amount are not included to see how these factors affect the outcome !
 
 
-- What are some other possible tables and/or graphs that we could create?
+### What are some other possible tables and/or graphs that we could create?
 
  * Other possible dataset could be a pivot table including different catogeries/subcatogeries, backers count, pledged amount, and outcomes to see which campaign most people went to and its outcome ! A line chart simliar to Outcomes based on Goals can be created "Outcomes based on Backers count"
