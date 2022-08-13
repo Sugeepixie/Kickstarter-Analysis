@@ -16,6 +16,8 @@ This analysis helped to understand campaign outcomes based on Launch date of the
 
 [Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/76926148/184510866-6bc5dbc3-be61-4468-a642-1b9ea6e4bf84.png)
+
 From the initial analysis based on launch date, month of May and June seems to be popular month with highest number of successful theater campaign
 The the theater campaign seems to be be at the lowest in december where it is close to the highest failed number
 
@@ -44,6 +46,7 @@ When creating line chart for Outcomes based on Goals, I first created a pivot ta
 
 
 - What can you conclude about the Outcomes based on Goals?
+
 
 * Higher the goal range, lower the number of campaigns with in that range and vice versa 
 * 1000 to 4999 range has the highest number of Plays campaigns and 73% were successful
